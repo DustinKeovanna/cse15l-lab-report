@@ -31,4 +31,4 @@ Password:
 ``` 
 
 Just type in "yes" and input the password you set up after resetting the original password of the account. You'll know if your connected to a computer in the CSE basement, if you have a visual similar to this:
-![Image](image8.png)
+![Image](image3.png)
