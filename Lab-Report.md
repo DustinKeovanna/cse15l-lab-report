@@ -34,7 +34,7 @@ Just type in "yes" and input the password you setted up after resetting the orig
 ![Image](image3.png)
 
 ## Trying Some Commands
-We can finally get to inputting some commands, here are some for example:
+We finally get to inputting some commands, here are some for example:
 ```
 cd ~
 cd
