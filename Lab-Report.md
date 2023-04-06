@@ -12,7 +12,7 @@ After following instructions and opening the file, you should be left with the V
 ![Image](image8.png)
 It's ok if your interface doesn't look exactly like the version in this photo, as the version of VScode in the picture was dated from 2022
 
-## Remotely Connecting
+## Remotely Connecting ---
 (for window users!)
 Now that we have an IDE seteup, I'll show how to connect to a remote computer through accessing course-specific accounts. If your on windows, you'll have a different first step. Window users must install git through this [link](https://gitforwindows.org/) as it'll come with good commands to use. With that installed follow the steps below to set up your default terminal: [Bash in VScode](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) (I unfortunately won't be able to show pictures to aid in the proccess of setting bash up, as I am a mac user.) 
 
@@ -30,5 +30,7 @@ Are you sure you want to continue connecting (yes/no/[fingerprint])?
 Password: 
 ``` 
 
-Just type in "yes" and input the password you set up after resetting the original password of the account. You'll know if your connected to a computer in the CSE basement, if you have a visual similar to this:
+Just type in "yes" and input the password you setted up after resetting the original password of the account. You'll know if your connected to a computer in the CSE basement, if you have a visual similar to this:
 ![Image](image3.png)
+
+## Installing VScode
