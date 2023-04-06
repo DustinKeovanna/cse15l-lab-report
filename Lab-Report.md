@@ -8,5 +8,6 @@ We'll start by installing an IDE (intergrated development enviroment) it's just 
 ![Image](Image1.png)
 
 After following instructions and opening the file, you should be left with the VScode interface looking simlar to this:
+
 ![Image](Image8.png)
 
