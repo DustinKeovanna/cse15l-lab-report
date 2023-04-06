@@ -10,7 +10,7 @@ We'll start by installing an IDE (intergrated development enviroment) it's just 
 After following instructions and opening the file, you should be left with the VScode interface looking similar to this:
 
 ![Image](image8.png)
-(It's ok if your interface doesn't look exactly like the version in this photo, as the version of VScode in the picture was dated from 2022)
+It's ok if your interface doesn't look exactly like the version in this photo, as the version of VScode in the picture was dated from 2022
 ---
 ## Remotely Connecting
 (for window users!)
