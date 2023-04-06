@@ -7,7 +7,7 @@ We'll start by installing an IDE (intergrated development enviroment) it's just 
 
 ![Image](Image1.png)
 
-After following instructions and opening the file, you should be left with the VScode interface looking simlar to this:
+After following instructions and opening the file, you should be left with the VScode interface looking similar to this:
 
 ![Image](image8.png)
 (It's ok if your interface doesn't look exactly like the version in this photo, as the version of VScode in the picture was dated from 2022)
