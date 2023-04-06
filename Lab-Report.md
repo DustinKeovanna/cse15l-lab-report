@@ -7,5 +7,5 @@ We'll start by installing an IDE (intergrated development enviroment) it's just 
 
 ![Image](Screenshot 2023-04-06 at 10.52.28 AM.png)
 
-After following instructions and opening the file, you should be left with VScode looking simlar to this:
+After following instructions and opening the file, you should be left with the VScode interface looking simlar to this:
 
